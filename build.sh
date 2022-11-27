@@ -1,0 +1,1 @@
+gcc -Werror main.c -lm
